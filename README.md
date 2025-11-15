@@ -56,7 +56,7 @@ pkg install python3 -y
 pip install pyfiglet
 pip install rich 
 termux-setup-storage -y
-git clone https://github.com/ADIRTTA/PyOfucator.git
+git clone https://github.com/BLACK-ZER-0/PyOfucator.git
 cd PyOfucator
 chmod +x *
 python3 pyofucator.py
